@@ -1,4 +1,4 @@
-# Nyanko
+# Nyanko!
 
 ```
        _ ∧ ∧＿__
