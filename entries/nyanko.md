@@ -1,4 +1,4 @@
-# Nyanko
+# Nyanko!
 ```
        _ ∧ ∧＿__
      ／(*ﾟーﾟ)  ／＼  Nyanko is a Rails extension framework,
