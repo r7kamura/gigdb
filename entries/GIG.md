@@ -1,5 +1,3 @@
-GIGというブログサービスをつくりました。
-
 ## GIGとは？
 GIGはGitHubを利用したブログサービスです。
 GIGで記事を投稿すると、GitHub上のあなたのレポジトリに記事データが保存されます。
@@ -11,3 +9,8 @@ GIGで記事を投稿すると、GitHub上のあなたのレポジトリに記�
 全ての変更がGitでバージョン管理されるため、いつでも変更の履歴を確認したり、昔の状態に戻したりできます。
 GitHubのCollaboratorやPull Requestを利用して、履歴を残しながらブログを共同編集することができます。
 記事の編集にはGitHub Flavored Markdown形式を利用し、その場でプレビューを確認しながら編集できます。
+
+## 開発者
+[@r7kamura](https://github.com/r7kamura)が作りました。
+GIGのソースコードはGitHub上で公開されています。
+https://github.com/r7kamura/gig/
