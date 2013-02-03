@@ -12,6 +12,5 @@ GitHubのCollaboratorやPull Requestを利用して、履歴を残しながら�
 
 ## 開発者
 [@r7kamura](https://github.com/r7kamura)が作りました。
-
 GIGのソースコードはGitHub上で公開されています。
 https://github.com/r7kamura/gig/
