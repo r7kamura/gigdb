@@ -3,6 +3,10 @@ Qiita Hackathonという2日間のイベントに参加し、[GIG](http://gig.he
 http://blog.qiita.com/post/42345394076/qiita-2-day-hackathon-report
 
 
+## 発表スライド
+<script async class="speakerdeck-embed" data-id="428387e0500f013099e61231381d5324" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
 ## どうしてGIGをつくったか
 今回のQiita Hackathonのテーマは、GitHub APIを使った開発+プログラマの問題を解決するサービス、とのことだった。随分前からブログに対して色々思う所がありながら結局吐き出す機会が得られずにいたということもあり、Webアプリ界においてブログを作るというのは言わばHello world、CG界における[ユタ・ポット](http://ja.wikipedia.org/wiki/Utah_teapot)みたいなものだと思ったので、初めて触るGitHub APIに思いを馳せながらブログをつくることにした。テーマ的に少年少女の為のブログをつくろうという気は更々無く、こういう要望を満たすものを作ろうとした。
 
@@ -50,7 +54,3 @@ GitHubのAPIを通してgit-commitする、というのが意外と難しい。�
 ## 今後は
 自分用のブログとして使いながら、地道に改良を加えていこうかなと思っている。例えばプレビュー機能が無かったり、キャッシュ機構が上手く動かない場合があったりするので、その辺の改良とか、CSSとJavaScriptを独自にカスタムできる程度の能力は付けたい。後は、せっかくホスティング形式にしているので、他の人のブログへの導線が欲しい。ソースコード自体GitHubで公開しているので、Pull Request大歓迎です。
 https://github.com/r7kamura/gig
-
-
-## 発表スライド
-<script async class="speakerdeck-embed" data-id="428387e0500f013099e61231381d5324" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
