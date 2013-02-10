@@ -50,8 +50,3 @@ GitHubのAPIを通してgit-commitする、というのが意外と難しい。�
 3. entriesのために、1のblobを含み最新commitの指すtreeを継承したtreeをつくる
 4. 最新commitを前commitに持つ、3で作ったtreeを含むcommitをつくる
 5. masterの参照先を4で作ったcommitに切り替える
-
-
-## 今後
-自分用のブログとして使いながら、地道に改良を加えていきたい。例えばプレビュー機能が無かったり、キャッシュ機構が上手く動かない場合があったりするので、その辺の改良とか、CSSとJavaScriptを独自にカスタムできる程度の能力は付けたい。後は、せっかくホスティング形式にしているので、他の人のブログへの導線が欲しい。ソースコードはGitHubで公開しているので、Pull Request大歓迎です。
-https://github.com/r7kamura/gig
